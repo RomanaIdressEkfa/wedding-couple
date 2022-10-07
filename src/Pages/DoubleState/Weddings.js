@@ -17,7 +17,7 @@ const Weddings = () => {
     }, [weddings]);
     return (
         <div>
-            <h1 className="font-bold text-2xl -mt-40 relative italic ">Prepared Wedding Hall</h1>
+            <h1 className="font-bold text-2xl -mt-40 relative italic text-base-100 ">Prepared Wedding Hall</h1>
             <br />
             <Swiper
                 effect={"coverflow"}

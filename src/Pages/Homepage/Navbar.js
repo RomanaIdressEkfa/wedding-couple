@@ -31,11 +31,11 @@ const Navbar = () => {
                     </button>
                 </div>
             </div>
-            <div class="navbar bg-white">
+            <div class="navbar bg-accent">
                 <div class="navbar-start">
 
                 </div>
-                <div class="navbar-center">
+                <div class="navbar-center ">
                     <a class="normal-case text-xl text-black">prepared-wedding-hall</a>
                 </div>
 

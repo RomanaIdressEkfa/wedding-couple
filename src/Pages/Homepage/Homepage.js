@@ -11,7 +11,7 @@ import Login from '../Component/Login';
 
 const Homepage = () => {
     return (
-        <div className='italic '>
+        <div className='italic bg-white'>
             <Navbar></Navbar>
             <Carousel></Carousel>
             <Weddings></Weddings>
