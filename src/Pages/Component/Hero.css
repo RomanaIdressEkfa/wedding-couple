@@ -11,3 +11,8 @@
     max-width: 80.333333% !important;
   }
   
+  @media (min-width: 1024px){
+  .lg\:w-7\/12 {
+      width: 50.333333%;
+  }
+}

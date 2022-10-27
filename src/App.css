@@ -2,6 +2,9 @@
   text-align: center;
   color: white;
 }
+.bodyy {
+  overflow: hidden; /* Hide scrollbars */
+}
 
 .App-logo {
   height: 40vmin;
@@ -22,13 +25,16 @@
   height: 300px;
  
 }
-
 .swiper-slide img {
   display: block;
   width: 100%;
 }
 
-/* swiper end */
+
+.-mt-96 {
+  margin-top: -40rem/* -384px */;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

@@ -15,7 +15,7 @@ const Carousel = () => {
                         <a href="#slide4" class="btn btn-circle">❮</a>
                         <a href="#slide2" class="btn btn-circle">❯</a>
                     </div>
-                    <div class="max-w-md text-center ">
+                    <div class="max-w-md text-center mb:hidden bodyy ">
                         <h1 class="mb-5 text-4xl font-bold uppercase ">Welcome to our Wedding Hall</h1>
                         <p class="mb-5">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
                         <button class="btn btn-accent">Get Started</button>
@@ -30,7 +30,7 @@ const Carousel = () => {
                         <a href="#slide1" class="btn btn-circle">❮</a>
                         <a href="#slide3" class="btn btn-circle">❯</a>
                     </div>
-                    <div class="max-w-md text-center ">
+                    <div class="max-w-md text-center mb:hidden bodyy ">
                         <h1 class="mb-5 text-4xl font-bold uppercase ">Welcome to our Wedding Hall</h1>
                         <p class="mb-5">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
                         <button class="btn btn-accent">Get Started</button>
@@ -43,7 +43,7 @@ const Carousel = () => {
                         <a href="#slide2" class="btn btn-circle">❮</a>
                         <a href="#slide4" class="btn btn-circle">❯</a>
                     </div>
-                    <div class="max-w-md text-center ">
+                    <div class="max-w-md text-center bodyy ">
                         <h1 class="mb-5 text-4xl font-bold uppercase ">Welcome to our Wedding Hall</h1>
                         <p class="mb-5">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
                         <button class="btn btn-accent">Get Started</button>
@@ -55,7 +55,7 @@ const Carousel = () => {
                         <a href="#slide3" class="btn btn-circle">❮</a>
                         <a href="#slide1" class="btn btn-circle">❯</a>
                     </div>
-                    <div class="max-w-md text-center ">
+                    <div class="max-w-md text-center bodyy">
                         <h1 class="mb-5 text-4xl font-bold uppercase ">Welcome to our Wedding Hall</h1>
                         <p class="mb-5">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
                         <button class="btn btn-accent">Get Started</button>
