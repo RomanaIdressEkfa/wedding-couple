@@ -14,7 +14,7 @@ import TitlebarImageList from '../Component/TitleBarImageList';
 const Homepage = () => {
     return (
         <div className='italic bg-white'>
-            <Navbar></Navbar>
+
             <Carousel></Carousel>
             <Weddings></Weddings>
             <Hero1></Hero1>

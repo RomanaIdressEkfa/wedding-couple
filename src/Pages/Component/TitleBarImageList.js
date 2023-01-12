@@ -40,7 +40,7 @@ export default function TitlebarImageList() {
 
 const itemData = [
     {
-        img: 'https://img.freepik.com/free-photo/tasty-creamy-desserts-decorated-with-strawberry-slices-tiramisu_8353-11508.jpg?w=1380&t=st=1673537068~exp=1673537668~hmac=bc792fc0b754c3514b548cb03e62ea76b64bdffcdca5f4eadcacde74f291fe30',
+        img: 'https://img.freepik.com/premium-photo/business-lunch-eco-plastic-container-ready-delivery_333900-4520.jpg?w=1380',
         title: 'Breakfast',
         author: '@bkristastucchio',
         rows: 2,
@@ -48,7 +48,7 @@ const itemData = [
         featured: true,
     },
     {
-        img: 'https://images.unsplash.com/photo-1551782450-a2132b4ba21d',
+        img: 'https://img.freepik.com/free-photo/closeup-shot-restaurant-menu-set-black-plates-perfect-food-background_181624-58554.jpg?w=1380&t=st=1673538379~exp=1673538979~hmac=60070f4d87c3005b999cb276fa38bc87fdcfcfd0ae2d870be6648626a6947a24',
         title: 'Burger',
         author: '@rollelflex_graphy726',
     },
@@ -58,8 +58,8 @@ const itemData = [
         author: '@helloimnik',
     },
     {
-        img: 'https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c',
-        title: 'Coffee',
+        img: 'https://img.freepik.com/free-photo/thanksgiving-day-delicious-meal-assortment_23-2149100109.jpg?w=1380&t=st=1673538410~exp=1673539010~hmac=ee7ad4d415a25b6a4e64a2eaf48ed3f6c078c8f6def93e3fb2263e4877957c83',
+        title: 'Food',
         author: '@nolanissac',
         cols: 2,
     },
@@ -88,14 +88,14 @@ const itemData = [
         author: '@katie_wasserman',
     },
     {
-        img: 'https://images.unsplash.com/photo-1597645587822-e99fa5d45d25',
+        img: 'https://img.freepik.com/free-photo/prawns_1157-530.jpg?w=1380&t=st=1673538318~exp=1673538918~hmac=ddc7293e20ebccd585a7448e8f80049e1d24f2f0634bb4db257f8548772e0a46',
         title: 'Mushrooms',
         author: '@silverdalex',
         rows: 2,
         cols: 2,
     },
     {
-        img: 'https://images.unsplash.com/photo-1567306301408-9b74779a11af',
+        img: 'https://img.freepik.com/premium-photo/buffet-food-catering-food-party-restaurant-mini-canapes-snacks-appetizers_41969-545.jpg?w=1380',
         title: 'Tomato basil',
         author: '@shelleypauls',
     },
