@@ -8,6 +8,8 @@ import Footer from './Footer';
 import Card from '../Component/Card';
 import MainHero from '../Component/MainHero';
 import Login from '../Component/Login';
+import Testimonials from '../Component/Testimonials';
+import TitlebarImageList from '../Component/TitleBarImageList';
 
 const Homepage = () => {
     return (
@@ -18,8 +20,12 @@ const Homepage = () => {
             <Hero1></Hero1>
             <Hero2></Hero2>
             <Card></Card>
+            <TitlebarImageList ></TitlebarImageList>
+            <br /><br />
             <MainHero></MainHero>
+
             <Login></Login>
+            {/* <Testimonials></Testimonials> */}
             <Footer></Footer>
 
         </div>

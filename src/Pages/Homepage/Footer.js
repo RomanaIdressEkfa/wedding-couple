@@ -67,9 +67,9 @@ const Footer = () => {
                     <a class="link link-hover">Cookie policy</a>
                 </div>
             </footer>
-            <div data-aos="flip-left"
+            <div data-aos="flip-left "
                 data-aos-easing="ease-out-cubic"
-                data-aos-duration="2000" className=' p-2 text-center text-base-100 '>
+                data-aos-duration="2000" className=' p-2 text-center text-base-100 bg-accent '>
                 Copyright {date}. All Rights Reserved
                 <div>
                     Designed by <b className='text'> Romana Idress Ekfa.</b>

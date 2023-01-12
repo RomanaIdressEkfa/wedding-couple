@@ -11,7 +11,7 @@ const Hero1 = () => {
                         data-aos-duration="1000" className='md:w-7/12 lg:w-7/12 h-full' src={pic} />
                     <div data-aos="flip-right" data-aos-delay="200"
                         data-aos-duration="1000" className='text-right text-base-100'>
-                        <h1 class="text-5xl font-bold">Welcome Our Fast Food Ghor</h1>
+                        <h1 class="text-5xl font-bold">Welcome to Our Wedding Hall</h1>
                         <p class="py-6 text-xl">food, substance consisting essentially of protein, carbohydrate, fat, and other nutrients used in the body of an organism to sustain growth and vital processes and to furnish energy. </p>
                         <button class="btn btn-secondary mr-3">Food Details</button>
                         <button class="btn btn-active btn-accent ">Order Now</button>

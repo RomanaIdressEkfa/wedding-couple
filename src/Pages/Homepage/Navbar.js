@@ -17,7 +17,7 @@ const Navbar = () => {
                     </div>
                 </div>
                 <div class="navbar-center">
-                    <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
+                    <a class="btn btn-ghost normal-case text-xl">Weeding Hall</a>
                 </div>
                 <div class="navbar-end">
                     <button class="btn btn-ghost btn-circle">
@@ -33,10 +33,12 @@ const Navbar = () => {
             </div>
             <div class="navbar bg-accent">
                 <div class="navbar-start">
-
+                    info@com
                 </div>
-                <div class="navbar-center ">
-                    <a class="normal-case text-xl text-black">prepared-wedding-hall</a>
+                <div class="navbar-start ">
+                    <a class="normal-case text-xl text-black">
+                        If you want to visit this wedding place, Please Contact us.
+                    </a>
                 </div>
 
             </div>
