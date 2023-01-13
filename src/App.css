@@ -47,7 +47,9 @@
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 }
-
+/* .background{
+  background-color: #B22485;
+} */
 
 .-mt-96 {
   margin-top: -40rem/* -384px */;
